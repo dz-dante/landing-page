@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.fl-co {
+    display: flex;
+    flex-direction: column;
+}
+
+.fl-ro {
+    display: flex;
+    flex-direction: row;
+}
+
+header, footer, .hero {
+    background-color: #1F2937;
+}
+
+.info {
+    background-color: #fff;
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
